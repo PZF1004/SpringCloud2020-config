@@ -1,4 +1,4 @@
 server: 
   port: 3344
 config: 
-  info: "master branch,SpringCloud2020-config/config-dev.yml version=1"
+  info: main branch,SpringCloud2020-config/config-dev.yml version=1
